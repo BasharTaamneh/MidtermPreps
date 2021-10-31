@@ -58,6 +58,7 @@ the team will meet to discuss the conflict itself and then will agree on how to 
 - if one of the team members is taking over the project and not letting the other members contribute, the team official will try to resolve this issue, and if he does not succeed in this, will report this issue to TA's.
 
 - members who are not adequately contributing the Team leader will talk to them privately to address their shortcomings and decide on the best approach to get them back on the right track.
+
 - if our resolutions attempts are unsuccessful the team will raise the issue to the instructor.
 ---
 
