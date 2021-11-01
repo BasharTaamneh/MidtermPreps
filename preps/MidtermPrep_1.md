@@ -82,18 +82,18 @@ according to the team members’ need for this, and this will be done through Zo
 
 -  After giving each group in the team their own task, they will try to solve it in a certain time. If they can't, the other team members will help them anyway.
 
--  The management tool will be kanban.
+- The management tool will be kanban.
 ---
 
 ## Git Process
 
+
 -  The entire project will live on GitHub.
 -  all of the team members will be owners of the organization, and they will have all the permissions to access it    
 -  we will create a staging branch at the beginning to be as a reference to our codes to hold, each feature will have its branch.
-
+- we will use Gitflow Workflow
 - We'll use a PR review workflow:
 > at the end of the day, the team will meet up and make a merge party.
 
 > Once in the end, will merge the staging branch to the main.
-
 
